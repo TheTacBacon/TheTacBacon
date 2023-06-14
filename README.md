@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong style="color:red"> @TheTacBacon </strong>
-- 😁 I'm a US Army Systems integrator, husband, dad, gamer, and the Legendary Sleepy Sage Sanin 
+- 😁 I'm a US Army Systems integrator reclassing to Cyberspace Specialist
 - 👀 I’m interested in learning web development and coding
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on <undefined at this time>
