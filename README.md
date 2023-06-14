@@ -6,10 +6,8 @@
 - 📫 How to reach me 
   <ul>
     <li> <strong style="color:orange">Email: </strong> tacbacon96@gmail.com</li>
-    <li> <strong>Discord:</strong>TacBacon#3702</li>
+    <li> <strong>Discord:</strong>ImpossiblueTV#3702</li>
    </ul>
-   
-   I'm super duper new to all of this so please be nice. 😎
 
 <!---
 TheTacBacon/TheTacBacon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
